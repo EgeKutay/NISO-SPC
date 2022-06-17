@@ -1,0 +1,6 @@
+{
+    "lineoptions":[{"value":1,"text":"101"},{"value":2,"text":"102"},{"value":3,"text":"103"},{"value":6,"text":"106"},{"value":8,"text":"104"},{"value":9,"text":"105"},{"value":10,"text":"107"},{"value":11,"text":"ZEHUS"},{"value":18,"text":"SUB"}],
+    "wcoptions":[{"value":10,"text":"APL"},{"value":11,"text":"ASL"},{"value":12,"text":"IML"},{"value":13,"text":"COL"},{"value":14,"text":"REL"}],
+    "stoptions":[{"value":1,"text":"Camera"},{"value":2,"text":"Collaudo"},{"value":3,"text":"Sensor"},{"value":4,"text":"Marsilli-CSV Files"},{"value":5,"text":"Marsilli-MDB Files"},{"value":12,"text":"Laser Measurements"},{"value":13,"text":"Plasma/Resistance"},{"value":17,"text":"Traceability"},{"value":18,"text":"Test"},{"value":19,"text":"Conveyor"},{"value":20,"text":"Counters"}],
+"stationobject": [{"LineName":"102","WorkcenterID":10,"StationID":11,"StationTypeID":1,"WorkcenterName":"APL","StationTypeName":"Camera","StationName":"Primary Camera","StationTableName":"APL","PieceColumnName":"Piece","ResultColumnName":"Result","DateTimeColumnName":"Time","ProductColumnName":"ProductID","HASPRODUCT":true,"HASSPC":true,"HASMATERIALPPM":null}]
+}
